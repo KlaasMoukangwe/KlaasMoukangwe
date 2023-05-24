@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KlaasMoukangwe
-- 👀 I’m interested in ...
+- 👀 Web and software development
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Django project
+- 📫 https://www.twitter.com/klaasmoukangwe
 
 <!---
 KlaasMoukangwe/KlaasMoukangwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
